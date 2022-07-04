@@ -1,0 +1,24 @@
+{
+  "name": "speedsmm-bayi-bot",
+  "version": "1.0.0",
+  "description": "SpeedSMM Bayi Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "kur": "npm install discord.js@13.8.1 axios moment qs form-data glob util fs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bayi",
+    "bot",
+    "speedsmm",
+    "takipçi",
+    "atma"
+  ],
+  "author": "Can",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord.js": "^13.8.1"
+  }
+}
